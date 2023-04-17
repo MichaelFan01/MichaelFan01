@@ -14,9 +14,8 @@ I'm currently working at [Meituan Vision AI Department](https://about.meituan.co
 - 🔭  I major in Computer Application Technology in Tianjin University. I enjoy working on
   - 📊 Visual & Language 
   - 🖼 Music & Art Creation 
-  - 🤖 Bioinformatics
 - 🤔 I’m looking for help with Research & Devops
-- 💬 Ask me about Python, CV & NLP, Latex =
+- 💬 Ask me about Python, CV & NLP, Latex
 
 
 ### 🚀 Quick Stats
