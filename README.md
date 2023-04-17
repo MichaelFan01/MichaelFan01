@@ -1,4 +1,4 @@
-<h1> Howdy! I am MingyuanFan (范铭源)</a>  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
+<h1> Howdy! I am Mingyuan Fan (范铭源)</a>  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 </h1>
 
 ### 📬 Find me at 
