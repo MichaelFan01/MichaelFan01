@@ -8,7 +8,7 @@
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-2EC866?style=flat-square&logo=Scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=ePIeVuUAAAAJ)](https://scholar.google.com/citations?hl=en&user=ePIeVuUAAAAJ)
 
 ### 🍀 A little about me...  
-I'm currently working at [Meituan Vision AI Department](https://about.meituan.com/en). I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm currently working at [Kunlun Inc](https://www.skyreels.ai/home/). I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ### ⚡️ A Few Facts
 - 🔭  I major in Computer Application Technology in Tianjin University. I enjoy working on
