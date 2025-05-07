@@ -19,10 +19,11 @@ I'm currently working at [Kunlun Inc](https://www.skyreels.ai/home/). I'm a **Te
 
 
 ### 🚀 Quick Stats
+<!--
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=MichaelFan01&show_icons=true&line_height=21&theme=react" alt="MichaelFan01's Github Stats" />
 </p>
-
+-->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MichaelFan01)](https://git.io/awesome-stats-card)
 
 
